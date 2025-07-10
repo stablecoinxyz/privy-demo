@@ -172,7 +172,7 @@ export default function Home() {
             <div className="bg-white p-6 rounded-lg shadow">
               <h2 className="text-xl font-semibold mb-4 text-gray-900">Gasless Transfer</h2>
               <p className="text-gray-600 mb-4">
-                Send SBC tokens without paying gas fees using SBC&apos;s paymaster
+                Send SBC tokens without paying gas fees using SBC&apos;s paymaster. Get Base Sepolia SBC <a href="https://dashboard.stablecoin.xyz/faucet" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">here</a>.
               </p>
               
               <GaslessTransferButton
